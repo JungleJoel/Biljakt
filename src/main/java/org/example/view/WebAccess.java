@@ -1,4 +1,4 @@
 package org.example.view;
 
-public class WebAcess {
+public class WebAccess {
 }
